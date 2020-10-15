@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572346581 source:a:\program files\projects\2.1\main.cpp
+	<iostream>
+	<map>
+	<string>
+
+1589891863 source:c:\users\user\desktop\Новая папка\2.1\main.cpp
+	<iostream>
+	<map>
+	<stdio.h>
+	<string>
+

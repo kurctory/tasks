@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602710914 source:d:\Учеба\проги\сдача\task2-3\task2-3\task2-3.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<algorithm>
+

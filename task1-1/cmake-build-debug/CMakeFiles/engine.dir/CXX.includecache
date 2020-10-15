@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikokoks/CLionProjects/tasks/tasks1-1/src/lab1.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+
